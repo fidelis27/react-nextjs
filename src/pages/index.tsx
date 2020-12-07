@@ -1,5 +1,7 @@
 import Head from 'next/head'
 
+const foo = '123'
+
 export default function Home() {
   return (
     <div>
